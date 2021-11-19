@@ -1,0 +1,26 @@
+header {
+  background-color: lightgreen;
+}
+
+.info {
+  background-color: lightblue;
+  color: blue;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+img {
+  width: 80%;
+  border-radius: 50%;
+}
+
+h3 {
+  background-color: lightgreen;
+  color: blue;
+  text-align: center;
+}
